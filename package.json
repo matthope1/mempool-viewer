@@ -1,0 +1,24 @@
+{
+  "name": "mempool-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getBlocks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getBlocks.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthope1/mempool-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthope1/mempool-viewer/issues"
+  },
+  "homepage": "https://github.com/matthope1/mempool-viewer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.3"
+  }
+}
